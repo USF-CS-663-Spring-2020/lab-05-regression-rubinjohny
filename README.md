@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Rubin Johny
+**USF email address**: rjohny@dons.usfca.edu 
